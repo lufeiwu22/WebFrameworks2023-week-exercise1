@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import Question from "./Components/Question";
+import Question from "./Question";
 
 function App({ question, options}) {
   /* Task is to create a react application to represent a questionnare application. In this exercise 
