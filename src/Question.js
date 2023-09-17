@@ -1,7 +1,6 @@
 import React from 'react';
 import Option from './Option';
 
-
 function Question({question, options}) {
     return (
         <div className="question">
